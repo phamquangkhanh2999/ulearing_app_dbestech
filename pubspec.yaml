@@ -41,6 +41,9 @@ dependencies:
   dots_indicator:
   intl:
   cloud_firestore: ^4.14.0
+  firebase_auth: ^4.17.2
+  logger: ^2.0.2+1
+  fluttertoast: ^8.2.4
 dev_dependencies:
   flutter_test:
     sdk: flutter
